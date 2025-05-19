@@ -1,0 +1,127 @@
+{
+  "5511945294153@s.whatsapp.net": {
+    "2025-05": [
+      {
+        "descricao": "Pão",
+        "valor": 25,
+        "data": "2025-05-12",
+        "categoria": "outros"
+      }
+    ]
+  },
+  "5521980232472@s.whatsapp.net": {
+    "2025-05": [
+      {
+        "descricao": "Envie no formato: \"descrição valor reais\". Ex: cafezinho",
+        "valor": 70
+      }
+    ]
+  },
+  "5511964484635@s.whatsapp.net": {
+    "2025-05": [
+      {
+        "descricao": "Pizza",
+        "valor": 150,
+        "data": "2025-05-18",
+        "categoria": "alimentação"
+      },
+      {
+        "descricao": "Cigarro",
+        "valor": 90,
+        "data": "2025-05-18",
+        "categoria": "outros"
+      },
+      {
+        "descricao": "Shampoo",
+        "valor": 100,
+        "data": "2025-05-18",
+        "categoria": "outros"
+      },
+      {
+        "descricao": "Xuxu",
+        "valor": 27,
+        "data": "2025-05-18",
+        "categoria": "outros"
+      },
+      {
+        "descricao": "Bala",
+        "valor": 12,
+        "data": "2025-05-18",
+        "categoria": "outros"
+      },
+      {
+        "descricao": "Cinema laser",
+        "valor": 33,
+        "data": "2025-05-18",
+        "categoria": "outros"
+      },
+      {
+        "descricao": "Cinema",
+        "valor": 13,
+        "data": "2025-05-18",
+        "categoria": "outros"
+      },
+      {
+        "descricao": "Fita",
+        "valor": 25,
+        "data": "2025-05-18",
+        "categoria": "outros"
+      },
+      {
+        "descricao": "Bisnaga",
+        "valor": 12,
+        "data": "2025-05-18",
+        "categoria": "outros"
+      },
+      {
+        "descricao": "Pizza",
+        "valor": 56,
+        "data": "2025-05-18",
+        "categoria": "outros"
+      },
+      {
+        "descricao": "pao",
+        "valor": 34,
+        "data": "2025-05-19",
+        "categoria": "outros"
+      },
+      {
+        "descricao": "coca cola",
+        "valor": 11,
+        "data": "2025-05-19",
+        "categoria": "alimentação"
+      },
+      {
+        "descricao": "luz",
+        "valor": 250,
+        "data": "2025-05-19",
+        "categoria": "moradia"
+      }
+    ]
+  },
+  "5511965804930@s.whatsapp.net": {
+    "2025-05": [
+      {
+        "descricao": "Pão",
+        "valor": 25
+      },
+      {
+        "descricao": "Shampoo",
+        "valor": 40
+      }
+    ]
+  },
+  "5511968761696@s.whatsapp.net": {
+    "2025-05": []
+  },
+  "5511982690433@s.whatsapp.net": {
+    "2025-05": [
+      {
+        "descricao": "Cigarro",
+        "valor": 40,
+        "data": "2025-05-17",
+        "categoria": "outros"
+      }
+    ]
+  }
+}

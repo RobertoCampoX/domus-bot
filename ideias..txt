@@ -1,0 +1,30 @@
+ideias. 
+
+1. Apagar lançamentos.
+2. Comprar parceladas e lançamentos futuros. 
+3. Categorização de estabelecimentos.
+4. incluir datas
+
+Planos único
+
+Descrição:
+
+Categoria:
+
+Valor: 
+
+Envio de relatório mensal todo 1º do mês subsequente. 
+
+Com gasto total do mês, segregado por categoria.
+
+Categorias:
+
+Contas;
+Beleza;
+Vestuário;
+Alimentação;
+Transporte;
+Lazer e cultura;
+Educação;
+Saúde;
+Outros;
