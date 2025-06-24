@@ -1,0 +1,12 @@
+# Pasta da sessão do Baileys
+auth/
+
+# Pasta de dependências do Node.js
+node_modules/
+
+# Arquivos gerados pelo bot
+*.xlsx
+*.png
+
+# Arquivos de log
+*.log
