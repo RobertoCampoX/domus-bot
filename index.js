@@ -17,8 +17,8 @@ const express = require('express');
 // ------------------- CONFIGURAÇÕES -------------------
 moment.locale('pt-br');
 
-const GASTOS_FILE = './gastos.json';
-const WHITELIST_FILE = './whitelist.json';
+const GASTOS_FILE = path.join(__dirname, 'gastos.json');
+const WHITELIST_FILE = path.join(__dirname, 'whitelist.json');
 
 // ------------------- FUNÇÕES DA WHITELIST -------------------
 function loadWhitelist() {
